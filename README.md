@@ -3,5 +3,5 @@ EPISODE 1
 #EPISODE 2
 [chapter 1](https://drive.google.com/uc?export=download&id=1ALZuwV6gvav0sNW09pYJp4Trgy3PxBtn)
 
-HERE
-https://github.com/Ivan010619/Manga-Zone/blob/136c716416164e6955255c8b535d8c55ba1736a6/Ch%20001.pdf
+Chainsaw Man
+https://github.com/Ivan010619/Manga-Zone/raw/1fe5364892c703321323eadf3c1d1c80622f335d/Chainsaw-Man-Vol-01.CBZ
