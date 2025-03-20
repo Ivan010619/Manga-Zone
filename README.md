@@ -5,3 +5,5 @@ EPISODE 1
 
 Chainsaw Man
 https://github.com/Ivan010619/Manga-Zone/raw/1fe5364892c703321323eadf3c1d1c80622f335d/Chainsaw-Man-Vol-01.CBZ
+
+https://www.mediafire.com/file/mxq0tbakuos0adw/Mao_v01_%25282021%2529_%2528Digital%2529_%25281r0n%2529_%2528f%2529.cbz/file?dkey=g3sm1b5dsjt&r=1598
